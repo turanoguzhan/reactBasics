@@ -1,0 +1,13 @@
+input{
+    font-weight: bold;
+    padding: 8px;
+}
+label{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 6px;
+}
+
+p{
+    text-align: left;
+}
